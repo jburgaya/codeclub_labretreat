@@ -2,5 +2,5 @@
 
 # Data
 ```
-kp_st.tsv
+data/kp_st.tsv
 ```
