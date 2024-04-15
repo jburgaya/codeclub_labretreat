@@ -1,4 +1,4 @@
-# Muller plot of Kpneumoniae ST
+# Plot the ST
 
 To create a muller plot of _K. pneumoniae_ or _E. coli_ STs.
 
