@@ -2,6 +2,10 @@
 
 To create a muller plot of _K. pneumoniae_ or _E. coli_ STs.
 
+Example Muller plot from Wikipedia:
+
+![Muller](https://upload.wikimedia.org/wikipedia/commons/3/38/Mullerplot.png)
+
 ## Data
 ```
 data/kp_st.tsv
