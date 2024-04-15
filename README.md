@@ -1,6 +1,6 @@
 # Muller plot of Kpneumoniae ST
 
-# Data
+## Data
 ```
 data/kp_st.tsv
 ```
