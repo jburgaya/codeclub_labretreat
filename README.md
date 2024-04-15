@@ -1,2 +1,9 @@
-# codeclub_labretreat
-Create a Muller plot of Kpneumoniae ST
+# Muller plot of Kpneumoniae ST
+
+# Data
+´´´
+kp_st.tsv
+´´´
+
+
+
